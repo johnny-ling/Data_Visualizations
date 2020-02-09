@@ -1,4 +1,4 @@
-# Data Visualizations - Dashboards<br/>
+# Data Visualizations - Dashboards
 ###### Johnny Ling<br/>M.S. Business Analytics<br/>johnny.ling@hotmail.com<br/><br/><br/>
 
 
