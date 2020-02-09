@@ -1,4 +1,8 @@
-# Data Visualizations - Dashboards
+# Data Visualizations - Dashboards<br/>
+###### Johnny Ling<br/>M.S. Business Analytics<br/>johnny.ling@hotmail.com<br/><br/><br/>
+
+
+ 
 
 ### ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)	*Tableau*	
 https://public.tableau.com/profile/johnny.ling#!/
